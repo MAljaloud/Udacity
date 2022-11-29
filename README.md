@@ -20,3 +20,4 @@ This is my python project part
 
 ## Personal information
 Name: Mohammed Aljaloud
+Email: MKALJALOUD@GMAIL.COM
